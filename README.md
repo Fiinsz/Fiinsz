@@ -11,8 +11,8 @@
 | 4   | 2         | 2            | Widget Flexible dan Expanded                | [Modul 4](https://docs.google.com/document/d/11raVMCJFUIHBD0Df23qXv1r68YZ6I8C1/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 04") | [Source Code](https://github.com/Fiinsz/modul4-mobile) | [Laporan]() |
 | 5   | 3         | 3            | Widget and Layout                           | [Modul 5](https://drive.google.com/file/d/1nWLRYG5A2OiUiMmCheIh8Y4obzZDTIvn/view?usp=drive_link) | [Source Code](https://github.com/Fiinsz/modul5-mobile) | [Laporan]() |
 | 6   | 3         | 3            | Interaction and User Input                  | [Modul 6](https://drive.google.com/file/d/1pjfjrqb8Q7deY4s8oxj03RKm_t17GJHV/view?usp=drive_link) | [Source Code]() | [Laporan]() |
-| 7   | 0         | 0            | Kosong                                      | [Modul 7]() | [Source Code]() | [Laporan]() |
-| 8   | 0         | 0            | Kosong                                      | [Modul 8]() | [Source Code]() | [Laporan]() |
+| 7   | 0         | 0            | Kosong                                      | [Modul 7](https://drive.google.com/file/d/1-qfd18hEob5LcMq5ZG-tR0KLWC-J7EE4/view?usp=drive_link) | [Source Code]() | [Laporan]() |
+| 8   | 0         | 0            | Kosong                                      | [Modul 8](https://drive.google.com/file/d/1pf3TbZnwtAzOZmYGN8kugOMqo4vYhuEb/view?usp=drive_link) | [Source Code]() | [Laporan]() |
 | 9   | 0         | 0            | Kosong                                      | [Modul 9]() | [Source Code]() | [Laporan]() |
 | 10  | 0         | 0            | Kosong                                      | [Modul 10]() | [Source Code]() | [Laporan]() |
 
