@@ -1,5 +1,3 @@
-ws## Hi there 👋
-
 #### Hi 👋, I'm Muhamad Arifin 
 ##### Saya Mahasiswa Teknik Informatika.
 
@@ -32,4 +30,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
