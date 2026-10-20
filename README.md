@@ -1,32 +1,76 @@
-#### Hi 👋, I'm Muhamad Arifin 
-##### Saya Mahasiswa Teknik Informatika.
+# Hi, I'm Arifin 👋
 
-💻Saat ini saya sedang belajar pemrograman mobile:
+### AI Engineering · RAG & LLMs · Explainable AI · Interactive Software
 
-| No  | Minggu ke | Praktikum ke | Topik                                      | Modul                                                                                                                                                          | Repository                                  | Laporan |
-| --- | --------- | ------------ | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------- |
-| 1   | 1         | 1            | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 01") | [Source Code](https://github.com/Fiinsz/Modul1-mobile) | [Laporan]() |
-| 2   | 1         | 1            | Widget Row dan Column                       | [Modul 2](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02") | [Source Code](https://github.com/Fiinsz/modul2-mobile) | [Laporan]() |
-| 3   | 2         | 2            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://docs.google.com/document/d/1xG5zvKOgwrAXow-jxBnv22rApHQjhqTO/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 03") | [Source Code](https://github.com/Fiinsz/modul3-mobile) | [Laporan]() |
-| 4   | 2         | 2            | Widget Flexible dan Expanded                | [Modul 4](https://docs.google.com/document/d/11raVMCJFUIHBD0Df23qXv1r68YZ6I8C1/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 04") | [Source Code](https://github.com/Fiinsz/modul4-mobile) | [Laporan]() |
-| 5   | 3         | 3            | Widget and Layout                           | [Modul 5](https://drive.google.com/file/d/1nWLRYG5A2OiUiMmCheIh8Y4obzZDTIvn/view?usp=drive_link) | [Source Code](https://github.com/Fiinsz/modul5-mobile) | [Laporan]() |
-| 6   | 3         | 3            | Interaction and User Input                  | [Modul 6](https://drive.google.com/file/d/1pjfjrqb8Q7deY4s8oxj03RKm_t17GJHV/view?usp=drive_link) | [Source Code](https://github.com/Fiinsz/modul6-mobile) | [Laporan]() |
-| 7   | 0         | 0            | Kosong                                      | [Modul 7](https://drive.google.com/file/d/1-qfd18hEob5LcMq5ZG-tR0KLWC-J7EE4/view?usp=drive_link) | [Source Code]() | [Laporan]() |
-| 8   | 0         | 0            | Kosong                                      | [Modul 8](https://drive.google.com/file/d/1pf3TbZnwtAzOZmYGN8kugOMqo4vYhuEb/view?usp=drive_link) | [Source Code]() | [Laporan]() |
-| 9   | 0         | 0            | Kosong                                      | [Modul 9]() | [Source Code]() | [Laporan]() |
-| 10  | 0         | 0            | Kosong                                      | [Modul 10]() | [Source Code]() | [Laporan]() |
+I'm a Software Engineering student interested in building intelligent systems that are not only useful, but also understandable and engaging to interact with.
 
+My focus is on **AI engineering, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Explainable AI (XAI)**, combined with interactive software development to create meaningful human-AI experiences.
 
+I enjoy exploring how AI can become more transparent, accessible, and useful through thoughtful engineering and creative interfaces.
 
-**Fiinsz/Fiinsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Areas of Interest
 
-- 🔭 I’m currently looking for work ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **AI Engineering** — Developing practical AI-powered applications and intelligent systems.
+- **RAG & LLMs** — Connecting language models with external knowledge to build more grounded AI assistants.
+- **Explainable AI (XAI)** — Exploring ways to make AI decisions, outputs, and knowledge sources more understandable.
+- **Interactive Software** — Building interactive web experiences, AI assistants, and educational applications.
+- **3D Web Development** — Exploring Three.js and immersive interfaces that combine technology with creativity.
+
+## 🚀 Featured Project
+
+### Xin — Interactive AI Assistant
+
+An experimental AI assistant that combines conversational AI with an interactive character interface.
+
+**Highlights**
+- Local LLM integration with Ollama
+- Conversational interface and persistent chat history
+- Text-to-speech and voice interaction experiments
+- Interactive character-driven user experience
+
+**Exploring next:** RAG integration, explainable responses, and more meaningful human-AI interaction.
+
+## 🛠️ Technologies & Tools
+
+**AI & LLMs**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Explainable AI (XAI)
+- Ollama and local AI experimentation
+
+**Development**
+- JavaScript · Node.js · Express.js
+- PHP · Laravel
+- HTML · CSS
+- SQL · SQLite · MySQL
+
+**Interactive Experiences**
+- Three.js
+- Interactive web interfaces
+- 3D web development
+
+**Tools**
+- Git · GitHub · VS Code
+- Linux · Windows
+
+## 🎯 Current Direction
+
+I'm working toward building AI applications that combine:
+
+1. Reliable knowledge retrieval
+2. Transparent and explainable AI outputs
+3. Interactive, human-centered interfaces
+
+My long-term goal is to develop intelligent software that makes complex technology easier to understand and use.
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, AI researchers, creative technologists, and teams working on AI-powered products and interactive experiences.
+
+Feel free to explore my repositories and follow my progress.
+
+---
+
+*Building intelligent systems. Making AI more understandable. Creating interactive experiences.*
