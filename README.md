@@ -78,33 +78,13 @@ An AI-assisted learning concept exploring how an intelligent assistant can help 
 
 *Research and development direction.*
 
----
-
-### `04` / Engineering Philosophy
-
-> Intelligence is more useful when people can understand it, interact with it, and trust how it works.
-
-I'm interested in more than making AI generate answers. I want to explore systems that can retrieve relevant knowledge, explain their outputs, and communicate through well-designed interfaces.
-
----
-
-### `05` / Beyond the Model
-
-AI doesn't have to live inside a chat box.
-
-I'm exploring ways to bring intelligent systems into interactive websites, educational software, and 3D digital experiences.
-
-The goal: **useful AI, understandable behavior, and interfaces worth exploring.**
-
----
-
-### `06` / Connect
+###  / Connect
 
 Interested in AI engineering, explainable AI, local LLMs, interactive software, or creative technology?
 
 Let's connect and build something interesting.
 
-[GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/)
+[Portofolio](https://github.com/) · [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/fiinsz/))
 
 ---
 
