@@ -1,76 +1,111 @@
-# Hi, I'm Arifin 👋
+# Arifin — AI Engineering & Interactive Systems
 
-### AI Engineering · RAG & LLMs · Explainable AI · Interactive Software
+**AI engineering · RAG & LLMs · Explainable AI · Interactive software**
 
-I'm a Software Engineering student interested in building intelligent systems that are not only useful, but also understandable and engaging to interact with.
+I build software at the intersection of **intelligent systems and interactive experiences**.
 
-My focus is on **AI engineering, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Explainable AI (XAI)**, combined with interactive software development to create meaningful human-AI experiences.
+My main interests are building LLM-powered applications, connecting AI to external knowledge through RAG, and exploring how Explainable AI can make intelligent systems easier to understand.
 
-I enjoy exploring how AI can become more transparent, accessible, and useful through thoughtful engineering and creative interfaces.
+I also enjoy creating interactive web experiences where technology feels less like a tool and more like an experience.
 
 ---
 
-## 🧠 Areas of Interest
+### `01` / Core Stack
 
-- **AI Engineering** — Developing practical AI-powered applications and intelligent systems.
-- **RAG & LLMs** — Connecting language models with external knowledge to build more grounded AI assistants.
-- **Explainable AI (XAI)** — Exploring ways to make AI decisions, outputs, and knowledge sources more understandable.
-- **Interactive Software** — Building interactive web experiences, AI assistants, and educational applications.
-- **3D Web Development** — Exploring Three.js and immersive interfaces that combine technology with creativity.
+**AI & Intelligent Systems**
 
-## 🚀 Featured Project
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=flat-square&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-6E56CF?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-AI%20Applications-412991?style=flat-square)
+![XAI](https://img.shields.io/badge/XAI-Explainable%20AI-0A7EA4?style=flat-square)
 
-### Xin — Interactive AI Assistant
+**Backend & Web Development**
 
-An experimental AI assistant that combines conversational AI with an interactive character interface.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Highlights**
-- Local LLM integration with Ollama
-- Conversational interface and persistent chat history
+**Interactive & 3D Web**
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Development Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### `02` / Current Focus
+
+| Field | What I'm exploring |
+|---|---|
+| RAG | Knowledge retrieval, grounding, and source attribution |
+| LLMs | Local inference and AI application development |
+| XAI | Making AI outputs and system behavior more understandable |
+| Interactive AI | Conversational interfaces and character-driven assistants |
+| 3D Web | Interactive environments and experiences with Three.js |
+
+---
+
+### `03` / Selected Projects
+
+#### Xin — Interactive AI Assistant
+
+An experimental AI assistant combining local language models with an interactive character-based interface.
+
+- Local LLM inference using Ollama
+- Node.js and Express backend
+- Conversational UI and persistent chat history
 - Text-to-speech and voice interaction experiments
-- Interactive character-driven user experience
+- Future direction: RAG, source attribution, and explainable responses
 
-**Exploring next:** RAG integration, explainable responses, and more meaningful human-AI interaction.
+#### Explainable AI for Educational Games
 
-## 🛠️ Technologies & Tools
+An AI-assisted learning concept exploring how an intelligent assistant can help learners understand a game, receive contextual guidance, and learn from their progress.
 
-**AI & LLMs**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Explainable AI (XAI)
-- Ollama and local AI experimentation
+- Interactive learning environments
+- Context-aware AI assistance
+- RAG-based knowledge grounding
+- Explainability and source attribution
 
-**Development**
-- JavaScript · Node.js · Express.js
-- PHP · Laravel
-- HTML · CSS
-- SQL · SQLite · MySQL
-
-**Interactive Experiences**
-- Three.js
-- Interactive web interfaces
-- 3D web development
-
-**Tools**
-- Git · GitHub · VS Code
-- Linux · Windows
-
-## 🎯 Current Direction
-
-I'm working toward building AI applications that combine:
-
-1. Reliable knowledge retrieval
-2. Transparent and explainable AI outputs
-3. Interactive, human-centered interfaces
-
-My long-term goal is to develop intelligent software that makes complex technology easier to understand and use.
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, AI researchers, creative technologists, and teams working on AI-powered products and interactive experiences.
-
-Feel free to explore my repositories and follow my progress.
+*Research and development direction.*
 
 ---
 
-*Building intelligent systems. Making AI more understandable. Creating interactive experiences.*
+### `04` / Engineering Philosophy
+
+> Intelligence is more useful when people can understand it, interact with it, and trust how it works.
+
+I'm interested in more than making AI generate answers. I want to explore systems that can retrieve relevant knowledge, explain their outputs, and communicate through well-designed interfaces.
+
+---
+
+### `05` / Beyond the Model
+
+AI doesn't have to live inside a chat box.
+
+I'm exploring ways to bring intelligent systems into interactive websites, educational software, and 3D digital experiences.
+
+The goal: **useful AI, understandable behavior, and interfaces worth exploring.**
+
+---
+
+### `06` / Connect
+
+Interested in AI engineering, explainable AI, local LLMs, interactive software, or creative technology?
+
+Let's connect and build something interesting.
+
+[GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/)
+
+---
+
+<sub>Experimenting, building, and learning in public.</sub>
