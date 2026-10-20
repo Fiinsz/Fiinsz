@@ -10,6 +10,9 @@ I also enjoy creating interactive web experiences where technology feels less li
 
 ---
 
+
+<div align="center">
+
 ### `01` / Core Stack
 
 **AI & Intelligent Systems**
@@ -41,7 +44,10 @@ I also enjoy creating interactive web experiences where technology feels less li
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</div>
+
 ---
+
 
 ### `02` / Current Focus
 
