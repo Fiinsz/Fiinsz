@@ -84,7 +84,7 @@ Interested in AI engineering, explainable AI, local LLMs, interactive software, 
 
 Let's connect and build something interesting.
 
-[Portofolio](https://github.com/) · [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/fiinsz/))
+[Portofolio](https://github.com/) · [LinkedIn](https://www.linkedin.com/in/fiinsz/)
 
 ---
 
